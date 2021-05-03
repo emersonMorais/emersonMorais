@@ -16,10 +16,9 @@
 <a href="#" target="_blank">
    <img src="https://img.shields.io/badge/emersonmorais381@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<hr>
 
-<hr/> <br>
-
-💻 # Technologies that I'm studying:
+### Technologies that I'm studying 💻 
 
 <a href="#">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
