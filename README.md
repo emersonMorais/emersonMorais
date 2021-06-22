@@ -2,7 +2,7 @@
 
 🎓 I’m a recent graduate in Computer Science, and today I work as a Network Analyst at G&P Projetos e Sistemas.<br>
 
-🎯 However, my principal goal at the moment is to become a FrontEnd Developer. 👨‍💻 I’m studying HTML5, CSS3, Javascript, React, and the other technologies and skills necessary for this.<br>
+🎯 However, my principal goal at the moment is to become a Web Developer. 👨‍💻 I’m studying HTML5, CSS3, Javascript, Node, React and the other technologies and skills necessary for this.<br>
 
 ❤️ I love to study and learn new things all the time but always keeping the focus on my goals and priorities.<br><br>
 
