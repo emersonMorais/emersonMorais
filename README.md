@@ -32,14 +32,7 @@
 <a href="#" >
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
-                                                                                          
-<br/> <br/>                                                                                                      
+                                                                                                                                                                                            
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonMorais&hide=stars&show_icons=true&theme=radical)]
-                                                                                                    
-                                                                                                      
-                                                                                                      
-                                                                                                      
-                                                                                                      
-                                                                                                      
-                                                                                                      
+                                                                                                                                                                                                                   
+                                                                                                     
